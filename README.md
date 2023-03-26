@@ -1,7 +1,7 @@
 # Grocery-delivery-app
 
 
-<h1>Grocery Delivery App</h1>
+<h1>GroceryGo!</h1>
 This web application allows users to order groceries online and have them delivered to their doorstep. The application includes the following features:
 
 Online grocery ordering<br>
