@@ -2,7 +2,7 @@
 
 
 <h1>GroceryGo!</h1>
-This web application allows users to order groceries online and have them delivered to their doorstep. The application includes the following features:
+GroceryGo is an online grocery delivery platform built using the MERN stack. The application includes the following features:
 
 Online grocery ordering<br>
 User authentication<br>
